@@ -1,0 +1,14 @@
+body {
+  background-color: rgba(195, 186, 186, 0.608);
+}
+
+.content-section {
+  width: 50vw;
+  height: 70vh;
+  margin: 0 auto;
+  background-image: url('../img/a-a.webp');
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 10px solid rgba(135, 122, 122, 0.451);
+  border-radius: 50%;
+}
